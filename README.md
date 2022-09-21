@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://opimehedi.netlify.app/](https://opimehedi.netlify.app/)
+- 👨‍💻 All of my projects are available at [protfolio](https://opimehedi.netlify.app/)
 
 - 💬 Ask me about **React Js, JavaScript, Html, Css and related web development.**
 
 - 📫 How to reach me **opisarker99@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cKayCBKlzbHcZNlF9zpTenv3A48kBrPcmLrY_x4dl7I/edit?usp=sharing](https://docs.google.com/document/d/1cKayCBKlzbHcZNlF9zpTenv3A48kBrPcmLrY_x4dl7I/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1cKayCBKlzbHcZNlF9zpTenv3A48kBrPcmLrY_x4dl7I/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
