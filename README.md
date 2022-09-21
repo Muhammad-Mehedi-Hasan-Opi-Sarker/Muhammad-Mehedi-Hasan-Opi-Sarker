@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.ibb.co/bQpqr7Z/banner.png" />
+</div> 
+
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
